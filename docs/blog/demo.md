@@ -12,6 +12,8 @@ __Advertisement :)__
 
 You will like those projects!
 
+$$\int_{-\infty}^\infty e^{-x^2} = \sqrt{\pi}$$
+
 ---
 
 # h1 Heading 8-)

@@ -18,7 +18,8 @@ function genSidebarConfig (title) {
       collapsable: false,
       children: [
         '/blog/',
-        '/blog/demo'
+        '/blog/demo',
+        '/blog/emitOn'
       ]
     }
   ]
